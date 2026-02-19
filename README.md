@@ -1,5 +1,7 @@
-# You Health - Static Website
+# You Health®
 
-Website: [https://nearhealth.github.io/youhealthweb-B/](https://nearhealth.github.io/youhealthweb-B/)
+The healthcare advisor you deserve.
+
+**Live site:** [https://nearhealth.github.io/youhealthweb-B/](https://nearhealth.github.io/youhealthweb-B/)
 
 ![Home](home.png)
